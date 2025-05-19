@@ -9,7 +9,6 @@ I'm a mechanical engineer working in industry, passionate about simulation, high
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Abaqus](https://img.shields.io/badge/Abaqus-005289?style=flat&logo=autodesk&logoColor=white)
 
 ---
